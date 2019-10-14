@@ -124,13 +124,20 @@ graph LR
 ```
 
 ### Trapezoid
-
+```
+graph TD
+    A[/Christmas\]
+```
 ```mermaid
 graph TD
     A[/Christmas\]
 ```
 ### Trapezoid alt
 
+```
+graph TD
+    B[\Go shopping/]
+```
 ```mermaid
 graph TD
     B[\Go shopping/]
